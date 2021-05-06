@@ -1,0 +1,5 @@
+com\cg\bean\User.class
+com\cg\dao\UserDao.class
+com\cg\dbutil\JPAUtil.class
+com\cg\user\TestProject.class
+com\cg\dao\UserDaoImpl.class
